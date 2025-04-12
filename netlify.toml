@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://seafile.picdupe.xyz:443/:splat"
+  status = 200
+  force = true
