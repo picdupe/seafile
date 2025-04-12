@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://seafile.picdupe.xyz:443/:splat"
+  to = "https://seafile.picdupe.xyz/:splat"
   status = 200
   force = true
